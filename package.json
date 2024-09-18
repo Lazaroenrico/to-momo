@@ -1,0 +1,12 @@
+{
+  "name": "to-momo",
+  "version": "1.0.0",
+  "description": "Chat de conversa privado para o meu momo e eu.",
+  "main": "ParaMeuMOMOO.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
